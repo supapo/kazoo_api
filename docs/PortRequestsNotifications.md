@@ -1,0 +1,9 @@
+# IO.Swagger.Model.PortRequestsNotifications
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**Email** | [**FaxboxNotificationsInboundEmail**](FaxboxNotificationsInboundEmail.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
